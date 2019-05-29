@@ -1,0 +1,6 @@
+#un peu de c
+ 
+#include <stdio.h>
+
+if x > a then
+ i ++
